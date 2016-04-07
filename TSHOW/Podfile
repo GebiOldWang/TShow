@@ -1,0 +1,8 @@
+platform :ios ,'7.0'
+
+pod 'SDWebImage'
+pod 'pop'
+pod 'BaiduMapKit'
+pod 'AFNetworking' ,'~> 3.0'
+pod 'TZImagePickerController', '~> 1.0.1'
+

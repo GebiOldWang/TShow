@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>IMG_0285.JPG</string>
+		<key>name</key>
+		<string>小熊和小兔子是好朋友</string>
+		<key>gender</key>
+		<string>女</string>
+		<key>age</key>
+		<string>21</string>
+		<key>constellation</key>
+		<string>巨蟹座</string>
+		<key>distance</key>
+		<string>100</string>
+		<key>signtext</key>
+		<string>不能控制自己的人,无法得到更多</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>IMG_0478.JPG</string>
+		<key>name</key>
+		<string>眼睛好大</string>
+		<key>gender</key>
+		<string>男</string>
+		<key>age</key>
+		<string>22</string>
+		<key>constellation</key>
+		<string>狮子座</string>
+		<key>distance</key>
+		<string>1000</string>
+		<key>signtext</key>
+		<string>对于下一秒,现在就是以后</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>IMG_0503.JPG</string>
+		<key>name</key>
+		<string>蓝胖子</string>
+		<key>gender</key>
+		<string>男</string>
+		<key>age</key>
+		<string>23</string>
+		<key>constellation</key>
+		<string>处女座</string>
+		<key>distance</key>
+		<string>250</string>
+		<key>signtext</key>
+		<string>我想休息去打撸啊撸!!!</string>
+	</dict>
+</array>
+</plist>

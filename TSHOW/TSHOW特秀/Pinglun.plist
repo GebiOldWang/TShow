@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>IMG_0605.png</string>
+		<key>name</key>
+		<string>你向前走_不必担忧</string>
+		<key>text</key>
+		<string>你说的对</string>
+		<key>time</key>
+		<string>16-01-18</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>IMG_0364.png</string>
+		<key>name</key>
+		<string>D妹Doha</string>
+		<key>text</key>
+		<string>一楼说的对</string>
+		<key>time</key>
+		<string>16-01-18</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>IMG_0082.JPG</string>
+		<key>name</key>
+		<string>隔壁老王</string>
+		<key>text</key>
+		<string>不明真相的吃瓜群众, 1楼2楼说的都对, 我要听哪一个人说的呢 －－ 来着乔布斯的专属iPhone7亮瞎你的狗眼版</string>
+		<key>time</key>
+		<string>16-01-18</string>
+	</dict>
+</array>
+</plist>
